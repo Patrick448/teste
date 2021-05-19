@@ -1,5 +1,6 @@
 aaaaaA
 B
+conflito solucionado
 C
 D
 E
